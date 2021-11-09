@@ -2,7 +2,7 @@ Player
 -> Init w/ 
   - Num player 
   -Score
--> variable for losing points (reduce_points)
+-> variable for losing points (reduce_score)
 -> variable for score 
 
 
